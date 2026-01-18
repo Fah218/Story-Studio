@@ -1,0 +1,8 @@
+flask
+flask-cors
+gunicorn
+requests
+Pillow
+reportlab
+python-dotenv
+cohere
